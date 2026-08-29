@@ -1,0 +1,9 @@
+# CODEOWNERS
+# Repository-wide ownership
+* @Turacoz-Global/it
+
+# GitHub governance and CI/CD controls
+/.github/ @Turacoz-Global/it
+
+# Protect CODEOWNERS itself
+/.github/CODEOWNERS @Turacoz-Global/it
