@@ -1,9 +1,9 @@
 # CODEOWNERS
 # Repository-wide ownership
-* @Turacoz-Global/it
+* @Turacoz-Global/erpnext
 
 # GitHub governance and CI/CD controls
-/.github/ @Turacoz-Global/it
+/.github/ @Turacoz-Global/erpnext
 
 # Protect CODEOWNERS itself
-/.github/CODEOWNERS @Turacoz-Global/it
+/.github/CODEOWNERS @Turacoz-Global/erpnext
